@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Vw/Jg/MD5E-s15965--3c6bad92653660cbb17049168bb5b14e.cmd/MD5E-s15965--3c6bad92653660cbb17049168bb5b14e.cmd
+/annex/objects/MD5E-s15965--3c6bad92653660cbb17049168bb5b14e.cmd

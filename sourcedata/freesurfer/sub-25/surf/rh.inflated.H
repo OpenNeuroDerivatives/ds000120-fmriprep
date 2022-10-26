@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Pm/Pk/MD5E-s931983--09142d4c4282aae8c1d60203a6d60520.H/MD5E-s931983--09142d4c4282aae8c1d60203a6d60520.H
+/annex/objects/MD5E-s931983--09142d4c4282aae8c1d60203a6d60520.H
